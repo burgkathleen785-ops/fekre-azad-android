@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">فکر آزاد</string>
+    <string name="title_activity_main">فکر آزاد</string>
+    <string name="package_name">ir.fekreazadlifestyle.app</string>
+    <string name="custom_url_scheme">ir.fekreazadlifestyle.app</string>
+</resources>

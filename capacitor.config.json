@@ -1,0 +1,8 @@
+{
+  "appId": "ir.fekreazadlifestyle.app",
+  "appName": "فکر آزاد",
+  "webDir": "www",
+          "server": {
+    "androidScheme": "https"
+  }
+}

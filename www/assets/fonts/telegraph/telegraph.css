@@ -1,0 +1,29 @@
+/* Telegraph — Commercial — a licence from fontha.com is required */
+@font-face {
+  font-family: 'Telegraph';
+  src: url('telegraph-400.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Telegraph';
+  src: url('telegraph-500.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Telegraph';
+  src: url('telegraph-600.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Telegraph';
+  src: url('telegraph-700.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

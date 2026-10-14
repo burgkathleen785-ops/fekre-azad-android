@@ -1,0 +1,29 @@
+/* Modam — Commercial — a licence from fontiran.com is required */
+@font-face {
+  font-family: 'Modam';
+  src: url('modam-400.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Modam';
+  src: url('modam-500.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Modam';
+  src: url('modam-600.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Modam';
+  src: url('modam-700.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
